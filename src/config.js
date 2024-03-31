@@ -53,42 +53,42 @@ export default {
     }],
     // 我的拓展技能掌握
     singlelist: [{
-      title: 'bootsrap',
+      title: 'python',
       text: '了解'
     }, {
-      title: 'Element-ui',
+      title: 'NodeJs',
       text: '掌握'
     }, {
-      title: 'mint-ui',
+      title: 'css',
       text: '掌握'
     }, {
-      title: 'scss',
+      title: 'HTML',
       text: '掌握'
     }],
     // 我的基本技能掌握
     proresslist: [{
-      title: 'HTML、CSS、SCSS',
-      value: '90%'
+      title: 'HTML、CSS',
+      value: '70%'
     }, {
       title: 'JS、JQ',
-      value: '90%'
+      value: '70%'
     }, {
       title: 'Vue',
-      value: '90%'
+      value: '0%'
     }, {
       title: 'NodeJs',
-      value: '80%'
+      value: '50%'
     }, {
       title: 'sql',
-      value: '80%'
+      value: '0%'
     }]
   },
   // page5部分
   page5: [{
-    title: '508工作室',
+    title: '相愛天數',
     content: '晋城职业技术学院508工作室独立站点的维护',
     image: 'box1.png',
-    href: 'https://lab508.gitee.io/'
+    href: 'https://aa340993.github.io/love/'
   }, {
     title: '图书管理系统',
     content: 'Vue,NodeJs图书管理系统前后端',
